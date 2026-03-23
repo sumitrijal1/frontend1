@@ -21,7 +21,6 @@ const Sidebar = () => {
   const adminLinks = [
     { to: '/dashboard', icon: <LayoutDashboard size={18} />, label: 'Dashboard' },
     { to: '/products',  icon: <Package size={18} />,         label: 'Products' },
-    { to: '/shop',      icon: <Store size={18} />,           label: 'Shop' },
     { to: '/all-orders',icon: <ClipboardList size={18} />,   label: 'All Orders' },
   ];
 
