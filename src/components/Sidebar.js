@@ -43,7 +43,7 @@ const Sidebar = () => {
           Shop<span style={{ color: '#f0ede8' }}>DB</span>
         </h2>
         <p style={{ fontSize: '11px', color: '#8a8799', marginTop: '2px' }}>
-          {isAdmin ? '⚡ Admin Panel' : '🛍️ Customer'}
+          {isAdmin ? ' Admin Panel' : ' Customer'}
         </p>
       </div>
 
