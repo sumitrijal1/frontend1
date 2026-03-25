@@ -55,7 +55,7 @@ export default function Login() {
             No account? <Link to="/register" style={{ color: 'var(--accent)' }}>Register</Link>
           </p>
           <div style={{ marginTop: '16px', padding: '12px', background: 'rgba(245,166,35,0.06)', borderRadius: '8px', fontSize: '12px', color: 'var(--muted)' }}>
-            <strong style={{ color: 'var(--accent)' }}>Demo:</strong> admin@shop.com / any password (after seeding DB)
+            <strong style={{ color: 'var(--accent)' }}>Demo:</strong> admin@gmail.com / any password (after seeding DB)
           </div>
         </div>
       </div>
